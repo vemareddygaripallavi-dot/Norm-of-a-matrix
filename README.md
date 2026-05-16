@@ -61,7 +61,8 @@ print("{:.2f}".format(two_matrix))
 <br>
 <br>
 <br>
-<img width="1137" height="863" alt="image" src="https://github.com/user-attachments/assets/13ad13ab-2be7-4b6c-8bf4-c951bacc48ef" />
+<img width="1173" height="744" alt="image" src="https://github.com/user-attachments/assets/974e59d1-b520-4ec7-bc95-cb19dbb3de37" />
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
