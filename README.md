@@ -61,7 +61,9 @@ print("{:.2f}".format(two_matrix))
 <br>
 <br>
 <br>
-<img width="1173" height="744" alt="image" src="https://github.com/user-attachments/assets/974e59d1-b520-4ec7-bc95-cb19dbb3de37" />
+<img width="1081" height="521" alt="image" src="https://github.com/user-attachments/assets/8521c762-f4b0-4c62-971b-cc0916212274" />
+
+<img width="841" height="379" alt="image" src="https://github.com/user-attachments/assets/deaab6b8-9200-4633-9881-1c29313970e2" />
 
 
 ## Result
